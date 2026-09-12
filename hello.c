@@ -15,5 +15,6 @@ extern int main(int argc, char *argv[])
     b = 4;
     printf("%d\n", my_func(2));
     printf("Hello, World from here!\n");
+    printf("Added another line here\n");
     return 0;
 }
